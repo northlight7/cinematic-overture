@@ -3,3 +3,9 @@
 .header-brand{font-size:25px;letter-spacing:-.06em}.frame-select{background:#fa573cee;border-radius:99px;padding:8px 12px}.motion-off .film-card .poster{transform:none}@media(max-width:700px){.header-brand{font-size:20px}.nav{gap:10px}.nav nav{gap:13px}.frame-select{padding:7px 10px}}
 
 @media(max-width:700px){.hero-bottom:before{content:"";position:absolute;z-index:-1;inset:-16px -22px -25px;background:#fa573c}.hero-bottom .caps{font-size:11px}}@media(max-width:360px){.nav .header-brand{font-size:18px}.program-label{font-size:0}.program-label:after{content:"Saved";font-size:12px}.nav nav{gap:12px}}
+
+.projection img{object-position:75% 50%}@media(min-width:701px) and (max-width:1000px){.hero-bottom:before{content:"";position:absolute;z-index:-1;inset:-20px -4vw -30px;background:#fa573c}}
+
+.masthead{z-index:4;text-shadow:0 2px 16px #311b1c16;pointer-events:none}
+
+.masthead{font-size:22.5vw}
