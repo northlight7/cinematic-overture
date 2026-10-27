@@ -6,7 +6,7 @@ A curved filmstrip unfurls into a cinema screen, leading into a programme you ca
 
 **[Visit the live site ↗](https://northlight7.github.io/cinematic-overture/)** · [Project notes & screenshots](https://github.com/northlight7/web-design-portfolio/tree/main/projects/overture) · [Full portfolio](https://northlight7.github.io/web-design-portfolio/)
 
-![OVERTURE film festival concept with an illuminated curved filmstrip, cinematic stills and a dark editorial programme.](https://raw.githubusercontent.com/northlight7/cinematic-overture/main/preview.jpg)
+<img src="https://raw.githubusercontent.com/northlight7/cinematic-overture/main/preview.jpg" alt="OVERTURE film festival concept with an illuminated curved filmstrip, cinematic stills and a dark editorial programme." width="900" height="650">
 
 <details>
 <summary>Play animated scroll preview (7 seconds)</summary>
