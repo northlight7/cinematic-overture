@@ -9,3 +9,4 @@
 .masthead{z-index:4;text-shadow:0 2px 16px #311b1c16;pointer-events:none}
 
 .masthead{font-size:22.5vw}
+.programme-strip{display:flex;align-items:center;gap:18px;flex-wrap:wrap;margin:0 0 38px;padding:16px 0 15px;border-top:2px solid #2a1614;border-bottom:2px solid #2a1614;color:#2a1614}.programme-strip[hidden]{display:none}.ps-label{font-size:11px;letter-spacing:.16em;opacity:.85;white-space:nowrap}.ps-stubs{display:flex;gap:10px;flex-wrap:wrap;flex:1}.ps-stub{display:inline-flex;align-items:center;gap:9px;border:0;padding:9px 13px 9px 11px;font:500 13px/1 Space,sans-serif;letter-spacing:.02em;background:#2a1614;color:#f7ece2}.ps-stub b{font:inherit;font-weight:500;opacity:1;font-size:11px;letter-spacing:.1em;color:#ff7052}.ps-review{border:0;background:#2a1614;color:#f6e7dc;font:500 12px Space,sans-serif;letter-spacing:.1em;text-transform:uppercase;padding:11px 16px;min-height:44px;cursor:pointer}.ps-review:hover{background:#e8543c;color:#fff}
