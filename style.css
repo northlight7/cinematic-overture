@@ -13,8 +13,8 @@
 /* Projector surface: grain, a soft vignette and a slow flicker, so the still reads as projected light. */
 .projection:after{content:'';position:absolute;inset:0;pointer-events:none;z-index:3;
  background:
-  radial-gradient(120% 90% at 50% 45%, transparent 42%, rgba(24,8,6,.42) 100%),
-  repeating-linear-gradient(0deg, rgba(255,255,255,.035) 0 1px, transparent 1px 3px);
+  radial-gradient(120% 90% at 50% 45%, transparent 48%, rgba(24,8,6,.34) 100%),
+  repeating-linear-gradient(0deg, rgba(255,255,255,.025) 0 1px, transparent 1px 3px);
  mix-blend-mode:multiply;opacity:calc(.55 + var(--grain,.0)*.2);
  animation:projFlicker 7s steps(60) infinite}
 .projection:before{content:'';position:absolute;inset:0;pointer-events:none;z-index:2;
